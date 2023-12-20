@@ -1,8 +1,14 @@
-Soy Andres Santana, actualmente estoy cursando mi tercer año universitario y estoy emocionado de comenzar el cuarto en 2024. Mi pasión por las bases de datos y el analisis de datos utilizando el lenguaje de programación Python ha sido el motor de mi carrera académica y profesional hasta ahora.
+# Basic Info
+Hi there my name is Andres Santana
+🔭 I’m currently working studying databases and data anlysis
 
-Una de mis fortalezas clave es mi habilidad para trabajar eficientemente en equipo. Creo firmemente en la colaboración y en la importancia de compartir conocimientos para alcanzar objetivos comunes.
-
-Además, me enorgullece destacar mi disciplina como un rasgo distintivo. La consistencia y la dedicación son valores que considero esenciales para alcanzar el éxito a largo plazo. Estoy comprometido con mi crecimiento continuo y estoy emocionado por las oportunidades que el futuro me deparará en el mundo del desarrollo y las bases de datos.
+📫 How to reach me: pipe161102@outlook.com
+### Skills
+Web development using python technologies such as Flask
+Python skills for data science
+### Contact
+Outlook: pipe161102@outlook.com
+Gmail: pipe161102@gmail.com
 <!---
 shewart16/shewart16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
