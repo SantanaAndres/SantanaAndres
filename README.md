@@ -1,5 +1,6 @@
 # Basic Info
-Hi there my name is Andres Santana\n
+Hi there my name is Andres Santana
+
 🔭 I’m currently studying databases and data anlysis
 
 📫 How to reach me: pipe161102@outlook.com
