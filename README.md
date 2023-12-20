@@ -1,6 +1,6 @@
 # Basic Info
-Hi there my name is Andres Santana
-🔭 I’m currently working studying databases and data anlysis
+Hi there my name is Andres Santana\n
+🔭 I’m currently studying databases and data anlysis
 
 📫 How to reach me: pipe161102@outlook.com
 ### Skills
