@@ -5,10 +5,10 @@ Hi there my name is Andres Santana
 
 📫 How to reach me: pipe161102@outlook.com
 ### Skills
-Web development using python technologies such as Flask and Django
-Python skills for data science
-Knowledge about databases like sql server
-Power BI
+* Web development using python technologies such as Flask and Django
+* Python skills for data science
+* Knowledge about databases like sql server
+* Power BI
 ### Contact
 Outlook: pipe161102@outlook.com
 
