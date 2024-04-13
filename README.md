@@ -9,6 +9,8 @@ Hi there my name is Andres Santana
 * Python skills for data science
 * Knowledge about databases like sql server
 * Power BI
+* Powershell
+* C#
 ### Contact
 Outlook: pipe161102@outlook.com
 
